@@ -1,6 +1,6 @@
 [package]
 name = "dispatch-proxy"
-version = "0.2.1"
+version = "0.2.3"
 authors = ["Alexandre Kirszenberg <alex@kirszenberg.com>"]
 edition = "2021"
 description = "A SOCKS proxy that balances traffic between network interfaces."
